@@ -15,8 +15,5 @@ public class Main {
         System.out.println(service.calculate(9.99, 1_000_000, 3));
 
 
-
-
-
     }
 }
